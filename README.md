@@ -17,9 +17,6 @@ Lunar Landscape Map: A meticulously designed map featuring craters, lunar bases,
 Game Modes: Play CS:GO normal two bombsite mode
 Visual and Audio Effects: Custom paint sounds to enhance the paintball experience.
 
-***Installation***
-
-
   **Prerequisites**
   Counter-Strike: Global Offensive
   SourceMod and MetaMod installed for plugin support.
@@ -42,6 +39,7 @@ Encourage contributions by explaining how others can contribute to the project. 
 
 **Known Issues**
 Outdated due to the release for CS:GO
+
 Guns will sometimes not shoot for an unknown bug, to fix this issue adjust the reload settings (mag size, or reload) to 0/1
 
 **Credits and Acknowledgments**
