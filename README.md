@@ -6,6 +6,7 @@ Sadly this MOD is outdated due to the new release of CS2
 
 **Gameplay and Map Building Timeline Video**
 https://youtu.be/PTk9hD-YIJ8?si=odUqhRbLdf-XkKQx
+
 **Map on Steam Workshop**
 https://steamcommunity.com/sharedfiles/filedetails/?id=2315912444
 
