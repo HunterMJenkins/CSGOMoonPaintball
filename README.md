@@ -17,7 +17,7 @@ Lunar Landscape Map: A meticulously designed map featuring craters, lunar bases,
 Game Modes: Play CS:GO normal two bombsite mode
 Visual and Audio Effects: Custom paint sounds to enhance the paintball experience.
 
-**Installation
+***Installation***
 
 
   **Prerequisites**
